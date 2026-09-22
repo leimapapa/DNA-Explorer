@@ -1,0 +1,30 @@
+{
+  "name": "dna-evidence-explorer-poc",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "check": "svelte-check --tsconfig ./tsconfig.json",
+    "smoke:r": "node scripts/smoke-webr.mjs",
+    "test": "vitest run",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "webr": "0.6.0",
+    "svelte": "^5.39.6"
+  },
+  "devDependencies": {
+    "@sveltejs/vite-plugin-svelte": "^6.2.1",
+    "@testing-library/svelte": "^5.2.8",
+    "@types/node": "^24.5.2",
+    "jsdom": "^27.0.0",
+    "svelte-check": "^4.3.2",
+    "typescript": "^5.9.2",
+    "vite": "^7.1.7",
+    "vite-plugin-static-copy": "^3.1.2",
+    "vitest": "^3.2.4"
+  },
+  "packageManager": "pnpm@11.19.0"
+}
