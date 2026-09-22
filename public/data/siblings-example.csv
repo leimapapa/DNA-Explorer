@@ -1,0 +1,11 @@
+sample,locus,allele_1,allele_2
+sibling_a,D3S1358,15,16
+sibling_a,TH01,6,9
+sibling_a,D21S11,29,30
+sibling_a,D18S51,14,17
+sibling_a,FGA,22,24
+sibling_b,D3S1358,15,15
+sibling_b,TH01,6,7
+sibling_b,D21S11,29,30
+sibling_b,D18S51,14,17
+sibling_b,FGA,22,24

@@ -1,0 +1,11 @@
+sample,locus,allele_1,allele_2
+sample_a,D3S1358,15,16
+sample_a,TH01,6,9
+sample_a,D21S11,29,30
+sample_a,D18S51,14,17
+sample_a,FGA,22,24
+sample_b,D3S1358,15,16
+sample_b,TH01,6,9
+sample_b,D21S11,29,30
+sample_b,D18S51,14,17
+sample_b,FGA,22,24
